@@ -49,6 +49,11 @@ Kurulum dosyasını [Releases](https://github.com/volkanorx/VolkanFormatter/rele
 📧 [volkanaymak@gmail.com](mailto:volkanaymak@gmail.com)
 
 ---
+---
+
+📦 **Son Sürüm İndir:**  
+👉 [VolkanFormatter v1.0.2 Release](https://github.com/volkanorx/VolkanFormatter/releases/latest)
+
 
 ## 🪪 Lisans
 
